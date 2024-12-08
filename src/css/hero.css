@@ -1,0 +1,16 @@
+.hero {
+    padding: 100px 0;
+    background-color: burlywood;
+}
+
+
+.hero-title {
+    font-size: 40px;
+    color: brown;
+    margin-bottom: 20px;
+}
+
+.hero-text {
+    font-size: 18px;
+    max-width: 900px;
+}
